@@ -1,0 +1,15 @@
+{
+   "projectId": "fxvojf",   
+   "watchForFileChanges": false, 
+
+   "reporter":"mochawesome",
+   "reporterOptions":{
+       "reportDir":"cypress/reports",
+       "reportFilename":"testResults",
+       "overwrite":false,
+       "html":true,
+       "json":true,
+       "charts":true
+
+   }
+}
